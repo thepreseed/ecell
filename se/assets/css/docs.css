@@ -13,7 +13,7 @@
 body {
   position: relative;
   padding-top: 40px;
-  background:#f3f1dc;
+ background:#fffffff;
   font-family:Forum;
 }
 
@@ -23,8 +23,24 @@ h3 code {
   font-weight: normal;
 }
 
-
-
+.nstruct {
+ // vertical-align:middle !important;
+  line-height:3.6 !important;
+  text-align:center;
+  font-size:38px !important;
+  font-weight:600 !important;
+  }
+  .taglinetext{
+  font-size:29px !important;
+  }
+/*.header{
+background:url(../../seimage.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+height:750px;
+}*/
 /* Tweak navbar brand link to be super sleek
 -------------------------------------------------- */
 
@@ -197,7 +213,7 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
 .masthead {
   padding: 50px 0 5px 0;
   margin-bottom: 0;
-  color: #7e1414;
+  color: #333;
     
 
 }
@@ -218,7 +234,7 @@ font-family:Forum;
   font-size: 34px;
   font-weight: 200;
   line-height: 1.25;
-  color:
+  color:#333;
 }
 
 /* Textual links in masthead */
@@ -284,8 +300,8 @@ font-family:Forum;
 }
 .marketing h1 {
   margin: 10px 0 10px;
-  font-size: 36px;
-  color:#7e1414;
+  font-size: 52px;
+  color:#333;
   font-weight: bolder;
   line-height: 1;
   letter-spacing: -1px;
@@ -959,6 +975,7 @@ form.bs-docs-example {
   .masthead h1 {
     font-size: 90px;
   }
+  }
   .masthead p,
   .masthead .btn {
     font-size: 24px;
@@ -1094,4 +1111,6 @@ form.bs-docs-example {
     padding-top: 20px;
     padding-bottom: 20px;
   }
+  
+  
 }
