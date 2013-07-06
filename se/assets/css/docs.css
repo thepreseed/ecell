@@ -24,14 +24,11 @@ h3 code {
 }
 
 .nstruct {
+ // vertical-align:middle !important;
   line-height:3.6 !important;
   text-align:center;
-  font-size:32px;
+  font-size:38px !important;
   font-weight:600 !important;
-  color: rgb(56, 56, 56) !important;
-  }
-  .nstruct p{
-  color: rgb(56, 56, 56);
   }
   .taglinetext{
   font-size:29px !important;
@@ -216,7 +213,8 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
 .masthead {
   padding: 50px 0 5px 0;
   margin-bottom: 0;
-  color: #333;  
+  color: #333;
+    
 
 }
 .custombtn{
@@ -237,7 +235,6 @@ font-family:Forum;
   font-weight: 200;
   line-height: 1.25;
   color:#333;
- 
 }
 
 /* Textual links in masthead */
@@ -300,35 +297,30 @@ font-family:Forum;
   padding-left:50px;
   margin-top:0;
   color: #333;
- 
 }
 .marketing h1 {
   margin: 10px 0 10px;
-  font-size: 52px;
+  font-size: 38px;
   color:#333;
   font-weight: bolder;
   line-height: 1;
   letter-spacing: -1px;
-  text-align:center;
 }
 .headtype{
-font-weight:300 !important;
-font-size:32px !important;
+font-weight:100 !important;
+font-size:30px !important;
 }
-.headtype1{
-font-weight:bold;
-font-size:38px !important;
-}
-.centerdiv{
-text-align:center;
-}
+
 .marketing h2 {
   font-weight: 200;
   margin-bottom: 5px;
 }
 .marketing p {
-  font-size: 22px;
+  font-size: 22px !important;
   line-height: 1.4;
+}
+.nstruct p{
+color:rgb(56,56,56);
 }
 .marketing .marketing-byline {
   margin-bottom: 40px;
@@ -351,7 +343,7 @@ font-size:22px !important;
 line-height:1.5;
 }
 .tagline{
-font-size:32px !important;
+font-size:24px;
 color:#333333;
 margin-top:-14px;
 }
