@@ -308,7 +308,7 @@ font-family:Forum;
 }
 .headtype{
 font-weight:100 !important;
-font-size:30px !important;
+font-size:26px !important;
 }
 
 .marketing h2 {
@@ -316,11 +316,12 @@ font-size:30px !important;
   margin-bottom: 5px;
 }
 .marketing p {
-  font-size: 22px !important;
+  font-size: 20px;
   line-height: 1.4;
 }
 .nstruct p{
 color:rgb(56,56,56);
+font-size:23px;
 }
 .marketing .marketing-byline {
   margin-bottom: 40px;
