@@ -300,9 +300,9 @@ font-family:Forum;
 }
 .marketing h1 {
   margin: 10px 0 10px;
-  font-size: 38px;
+  font-size: 34px;
   color:#333;
-  font-weight: bolder;
+  font-weight: 600;
   line-height: 1;
   letter-spacing: -1px;
 }
@@ -316,7 +316,7 @@ font-size:26px !important;
   margin-bottom: 5px;
 }
 .marketing p {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.4;
 }
 .nstruct p{
