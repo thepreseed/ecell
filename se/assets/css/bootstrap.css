@@ -6037,3 +6037,48 @@ a.badge:hover {
 .affix {
   position: fixed;
 }
+
+/* Custom */
+.hidden-onload {
+    display: none;
+}
+.event-form {
+    margin-bottom: 30px;
+}
+.event-form .the-form,
+.ask-for-explara {
+    max-width: 500px;
+    margin: 30px auto 0;
+}
+.event-form .the-form .input-text {
+  width: 100%;
+  height: 40px;
+  padding: 0 10px;
+  font-size: 16px;
+  line-height: 40px;
+}
+
+.event-form .input-textarea {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1.62;
+}
+
+.event-form .btn-centered {
+    text-align: center;
+}
+.event-form .submit-button {
+    background: ;
+    font-size: 24px;
+    line-height: 1.4;
+}
+.ask-for-explara h3 {
+    font-size: 28px;
+}
+.ask-for-explara p {
+    font-size: 24px;
+    line-height: 1.62;
+}
