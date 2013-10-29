@@ -190,7 +190,7 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
   color: #fff;
 }
 .masthead h1 {
-  font-size: 70px;   /*old value 120px
+  font-size: 86px;   /*old value 120px
 */  line-height: 1;
 margin-top:35px;
   letter-spacing: -2px;
@@ -204,7 +204,7 @@ font-size: 70px !important;
 font-weight:100 !important;
 }
 .masthead p {
-  font-size: 26px;
+  font-size: 22px;
   font-weight: 200;
   line-height: 1.25;
  // opacity:0.9;
